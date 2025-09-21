@@ -3,10 +3,10 @@
 This repository contains the solutions for Assignment 3 of Python course, focusing on Functions and Modules. The assignment includes two tasks that demonstrate Python programming skills such as creating functions, using recursion/loops, and applying the math module for calculations.  
 
 ## Table of Contents  
-- Overview (#Overview) 
-- Task 1: Calculate Factorial Using a Function (#task-1-calculate-factorial-using-a-function)  
-- Task 2: Using the Math Module for Calculations (#task-2-using-the-math-module-for-calculations)
-- Files (#files)
+1. Overview (#Overview) 
+2. Task 1: Calculate Factorial Using a Function (#task-1-calculate-factorial-using-a-function)  
+3. Task 2: Using the Math Module for Calculations (#task-2-using-the-math-module-for-calculations)
+4. Files (#files)
 
 ## Overview  
 This repository includes solutions for two tasks from Module 4: Functions & Modules in Python. The tasks are:  
