@@ -1,4 +1,4 @@
-#Printing Factorial of a Number given by user
+'''Printing Factorial of a Number given by user'''
 def factorial(n):
    if (n == 0 or n == 1):
        return 1
@@ -6,6 +6,6 @@ def factorial(n):
        return n * factorial(n-1)
 
 
-num = int(input("Enter Number: "))
+num = float(input("Enter Number: "))
 print(f"Factorial of {num} is {factorial(num)}.")
 
